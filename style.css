@@ -1,0 +1,180 @@
+body{
+    box-sizing: border-box;
+}
+
+
+.section{
+    background: #ebd2ea;
+    border: 1px solid #000000;
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+    height: 500px;
+    overflow:scroll;
+}
+.section-block{
+    display: block;
+    
+}
+.block1{
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 215px;
+    height: 165px;
+    background: rgb(233, 179, 109);
+    text-align: center;
+    margin: 25px 15px 0px 20px;
+    box-shadow:-3px 7px 44px inset #000000;
+}
+.block2{
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 215px;
+    height: 165px;
+    background: rgb(233, 179, 109);
+    text-align: center;
+    margin: -168px 10px 0px 260px;
+    box-shadow:-3px 7px 44px inset #000000;
+}
+.block3{border: 2px solid black;
+    border-radius: 10px;
+    width: 215px;
+    height: 165px;
+    background: rgb(233, 179, 109);
+    text-align: center;
+    margin: -168px 10px 0px 500px;
+    box-shadow:-3px 7px 44px inset #000000;
+}
+
+.block4{
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 215px;
+    height: 165px;
+    background: rgb(233, 179, 109);
+    text-align: center;
+    margin: -168px 10px 0px 740px;
+    box-shadow:-3px 7px 44px inset #000000;
+}    
+
+.block5{
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 215px;
+    height: 165px;
+    background: rgb(233, 179, 109);
+    text-align: center;
+    margin: 25px 15px 0px 20px;
+    box-shadow:-3px 7px 44px inset #000000;
+}
+.block6{
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 215px;
+    height: 165px;
+    background: rgb(233, 179, 109);
+    text-align: center;
+    margin: -168px 10px 0px 260px;
+    box-shadow:-3px 7px 44px inset #000000;
+}
+.block7{
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 215px;
+    height: 165px;
+    background: rgb(233, 179, 109);
+    text-align: center;
+    margin: -168px 10px 0px 500px;
+    box-shadow:-3px 7px 44px inset #000000;
+}
+.block8{
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 215px;
+    height: 165px;
+    background: rgb(233, 179, 109);
+    text-align: center;
+    margin: -168px 10px 0px 740px;
+    box-shadow:-3px 7px 44px inset #000000;
+}
+.block9{
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 215px;
+    height: 165px;
+    background: rgb(233, 179, 109);
+    text-align: center;
+    margin: 25px 15px 0px 20px;
+    box-shadow:-3px 7px 44px inset #000000;
+}
+.block10{
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 215px;
+    height: 165px;
+    background: rgb(233, 179, 109);
+    text-align: center;
+    margin: -168px 10px 0px 260px;
+    box-shadow:-3px 7px 44px inset #000000;
+}
+.block11{
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 215px;
+    height: 165px;
+    background: rgb(233, 179, 109);
+    text-align: center;
+    margin: -168px 10px 0px 500px;
+    box-shadow:-3px 7px 44px inset #000000;
+}
+
+.block12{
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 215px;
+    height: 165px;
+    background: rgb(233, 179, 109);
+    text-align: center;
+    margin: -168px 10px 0px 740px;
+    box-shadow:-3px 7px 44px inset #000000;
+}
+.block13{
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 215px;
+    height: 165px;
+    background: rgb(233, 179, 109);
+    text-align: center;
+    margin: 25px 15px 0px 20px;
+    box-shadow:-3px 7px 44px inset #000000;
+}
+.block14{
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 215px;
+    height: 165px;
+    background: rgb(233, 179, 109);
+    text-align: center;
+    margin: -168px 10px 0px 260px;
+    box-shadow:-3px 7px 44px inset #000000;
+}
+
+.block15{
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 215px;
+    height: 165px;
+    background: rgb(233, 179, 109);
+    text-align: center;
+    margin: -168px 10px 0px 500px;
+    box-shadow:-3px 7px 44px inset #000000;
+}
+.block16{
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 215px;
+    height: 165px;
+    background: rgb(233, 179, 109);
+    text-align: center;
+    margin: -168px 10px 0px 740px;
+    box-shadow:-3px 7px 44px inset #000000;
+}
