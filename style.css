@@ -9,7 +9,7 @@ body{
     border-top-left-radius: 25px;
     border-bottom-left-radius: 25px;
     height: 500px;
-    overflow:scroll;
+    overflow-y:scroll;
 }
 .section-block{
     display: block;
